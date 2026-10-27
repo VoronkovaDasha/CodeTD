@@ -93,7 +93,7 @@ One `.npy` file per feature and sequence, named `task_id_<task_id>_seed_<seed>_g
 
 ### 2. Training Classifier
 
-Example of classifier training is in the ``main_results.ipynb''.
+Example of classifier training is in the 'main_results.ipynb'.
 
 ## Attribution
 
