@@ -1,6 +1,6 @@
 # CodeTD
 
-The repository contains implementation for the paper:
+The repository contains the implementation for the paper:
 
 📄 **Publication**: “CodeTD: Topology of Attention Detects Hallucinations in Code LLMs”  
 👥 **Authors**: D. Voronkova, I. Trofimov, A. Dmitriev, E. Tulchinskii, E. Burnaev, S. Barannikov  
