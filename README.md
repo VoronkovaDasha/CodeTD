@@ -99,6 +99,7 @@ Example of classifier training is in the 'main_results.ipynb'.
 
 `src/code_eval.py` and `src/execute.py` are copied from [bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness/tree/6116c6a9a5672c69bd624373cfbc8938b7acc249) (Apache License 2.0) and are needed to evaluate the generated
 code. `execute.py` is unchanged; in `code_eval.py` only the relative import of `execute` was replaced.
+`execute.py` is in turn adapted from OpenAI's [human-eval](https://github.com/openai/human-eval) (MIT License).
 
 ## 📖 Citation
 
