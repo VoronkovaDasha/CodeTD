@@ -39,7 +39,7 @@ The pipeline has two steps:
 ```bash
 OUT=output/<model_name>/humaneval
 
-python generate_features.py \
+python src/generate_features.py \
     --model <model_name> \
     --task humaneval \
     --max_length_generation 512 \
