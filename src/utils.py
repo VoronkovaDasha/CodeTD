@@ -16,7 +16,7 @@
 
 from datasets import load_dataset
 from transformers import StoppingCriteria
-from .code_eval import compute_code_eval
+from code_eval import compute_code_eval
 
 
 class CodeTask:
